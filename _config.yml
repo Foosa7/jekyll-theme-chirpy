@@ -8,22 +8,24 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Foosa                          # the main title
+title: Chirpy                          # the main title
 
-tagline: Ace.  # it will display as the sub-title
+tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Electronics & Electrical stuff.
+  A minimal, portfolio, sidebar,
+  bootstrap Jekyll theme with responsive web design
+  and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://foosa7.github.io'
+url: 'protocol://domain'
 
-author: Foosa Ace                  # change to your full name
+author: your_full_name                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: foosa7             # change to your github username
+  username: github_username             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
